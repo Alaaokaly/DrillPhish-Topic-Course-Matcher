@@ -11,13 +11,3 @@ Track email open rates and course enrollment.
 
 
 
-Repository Structure
-DrillPhish-Recommendation-System/
-├── data/
-│   ├── feed_data_1.csv              # Feed entries (CSV 1)
-│   ├── feed_data_2.csv              # Feed entries (CSV 2)
-│   └── Course_Mappings.csv          # Course data (simulating API)
-├── docs/
-│   ├── Recommendation System Requirements v2.md  # Phase 1 requirements
-│   ├── Topic_Extraction_Plan.md                 # Phase 2 topic extraction
-│   └── Recommendation_Plan.md                   # Phase 3 recommendation and email
