@@ -163,13 +163,3 @@ flowchart TD
 
 
 
-                        | Interaction Stage | Metric                               | Target    | Data Source                             | Business Benefit                     
-  |-------------------|---------------------------------------|-----------|------------------------------------------|--------------------------------------|
-       | Awareness         | % of users receiving threat emails    | 90%       | Drill-Phish announcement module logs     | Enhanced awareness, compliance       |
-       | Consideration     | Email open rate                       | 70%       | Email tracking metrics                   | Revenue growth, efficiency           |
-       | Action            |                                       | 15%       | Drill-Phish LMS enrollment data          | Revenue growth, cost savings         |
-       | Awareness         |                                       | 95%       | Announcement module logs                 | Enhanced awareness, efficiency       |
-       | Consideration     | Click-through rate on course links    | 50%       | Email tracking metrics                   | Revenue growth, differentiation      |                                                                     
-       | Awareness         | % of users acknowledging emails       | 85%       | Acknowledgment button clicks             | Compliance, awareness                |
-       | Consideration     | Time to first course view             | < 2 days  | Drill-Phish LMS activity logs            | Efficiency, engagement               |
-       | Action            | Course enrollment rate                | 20%       | Drill-Phish LMS enrollment data          | Revenue growth, cost savings         |
